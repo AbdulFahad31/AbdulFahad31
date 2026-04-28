@@ -1,61 +1,51 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,30:0a192f,70:0f3460,100:16213e&height=220&section=header&text=Abdul%20Fahad%20M&fontSize=52&fontColor=00d4ff&animation=fadeIn&fontAlignY=38&desc=Flutter%20Developer%20%7C%20Firebase%20%7C%20Mobile%20App%20Engineer&descAlignY=58&descSize=18&descColor=a8b2d8" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:0f3460,100:00d4ff&height=250&section=header&text=Abdul%20Fahad%20M&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=45&stroke=00d4ff&strokeWidth=2&desc=Flutter%20Developer%20%E2%80%A2%20Firebase%20%E2%80%A2%20Mobile%20App%20Engineer&descAlignY=65&descSize=17&descColor=a8b2d8" />
+
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&width=600&height=45&lines=🚀+Flutter+%26+Firebase+Developer;📱+Building+Scalable+Mobile+Apps;💡+Real-World+Apps+that+Solve+Real+Problems;🤝+Open+to+Internships+%26+Collaborations)](https://git.io/typing-svg)
+
+<br/>
+
+📍 Coimbatore, India &nbsp;|&nbsp; 📞 +91 75399 34156 &nbsp;|&nbsp; 📧 abdulfahad676@gmail.com
 
 </div>
 
 ---
+
+## ⚡ Tech Arsenal
 
 <div align="center">
 
-```
-📍 Coimbatore, India   📞 +91 75399 34156   📧 abdulfahad676@gmail.com
-```
+**📱 Mobile & UI**<br/>
+<img src="https://skillicons.dev/icons?i=flutter,dart,figma&theme=dark" height="50" />
+
+<br/><br/>
+
+**☁️ Backend & Cloud**<br/>
+<img src="https://skillicons.dev/icons?i=firebase,mongodb,supabase&theme=dark" height="50" />
+
+<br/><br/>
+
+**💻 Languages**<br/>
+<img src="https://skillicons.dev/icons?i=java,python,c,html,css&theme=dark" height="50" />
+
+<br/><br/>
+
+**🛠️ Tools**<br/>
+<img src="https://skillicons.dev/icons?i=git,github,androidstudio,vscode&theme=dark" height="50" />
 
 </div>
 
 ---
 
-<img align="right" width="380" src="https://github-readme-stats.vercel.app/api?username=AbdulFahad31&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=a8b2d8&ring_color=00d4ff" />
-
-### 👨‍💻 Who Am I?
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&width=600&lines=Flutter+%26+Firebase+Developer+%F0%9F%9A%80;Building+Scalable+Mobile+Apps+%F0%9F%93%B1;B.E.+Computer+Science+%40+SREC%2C+Coimbatore;Real-World+Apps+that+Solve+Real+Problems+%F0%9F%92%A1;Open+to+Internships+%26+Collaborations+%F0%9F%A4%9D" alt="Typing SVG" />
-
-<br clear="right"/>
-
----
-
-### ⚡ Tech Arsenal
-
-<div align="center">
-
-**Mobile & UI**
-
-<img src="https://skillicons.dev/icons?i=flutter,dart,figma&theme=dark" height="48" />
-
-**Backend & Cloud**
-
-<img src="https://skillicons.dev/icons?i=firebase,mongodb,supabase&theme=dark" height="48" />
-
-**Languages**
-
-<img src="https://skillicons.dev/icons?i=java,python,c,html,css&theme=dark" height="48" />
-
-**Tools**
-
-<img src="https://skillicons.dev/icons?i=git,github,androidstudio,vscode&theme=dark" height="48" />
-
-</div>
-
----
-
-### 🏆 Highlights That Actually Matter
+## 🏆 Highlights That Actually Matter
 
 <div align="center">
 
 | 🏅 Achievement | 📌 Detail |
-|---|---|
+|:---:|:---|
 | 🇮🇳 **Govt. of India Copyright** | AmpTrail – EV Charging App (Registered) |
 | ⚡ **350+ Problems** | SkillRack – C Programming |
 | 🧠 **100+ Problems** | LeetCode |
@@ -65,18 +55,22 @@
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdulFahad31&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d4ff&ring=00d4ff&fire=ff6b6b&currStreakLabel=00d4ff&sideLabels=a8b2d8&dates=a8b2d8&sideNums=ffffff&currStreakNum=ffffff" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=AbdulFahad31&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=a8b2d8&ring_color=00d4ff" height="165" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulFahad31&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=a8b2d8&langs_count=6" height="165" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdulFahad31&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d4ff&ring=00d4ff&fire=ff6b6b&currStreakLabel=00d4ff&sideLabels=a8b2d8&dates=a8b2d8&sideNums=ffffff&currStreakNum=ffffff" height="165" />
 
 </div>
 
 ---
 
-### 🌐 Find Me
+## 🌐 Find Me
 
 <div align="center">
 
@@ -92,9 +86,9 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:0f3460,100:0D0D0D&height=120&section=footer&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0f3460,100:00d4ff&height=130&section=footer&animation=fadeIn" />
 
-**"Code is not just logic — it's impact."**
+*"Code is not just logic — it's impact."*
 
 ![Profile Views](https://komarev.com/ghpvc/?username=AbdulFahad31&color=00d4ff&style=flat-square&label=Profile+Views)
 
