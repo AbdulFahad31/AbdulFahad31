@@ -21,10 +21,9 @@
 ### 👨‍💻 Who Am I?
 
 ```dart
-class AbdulFahad M extends FlutterDeveloper {
+class AbdulFahadM extends FlutterDeveloper {
   final String degree = "B.E. Computer Science";
   final String college = "SREC, Coimbatore";
-  final double cgpa = 8.11;
   final String focus = "Scalable Mobile Apps";
 
   @override
@@ -71,15 +70,8 @@ class AbdulFahad M extends FlutterDeveloper {
 | ⚡ **350+ Problems** | SkillRack – C Programming |
 | 🧠 **100+ Problems** | LeetCode |
 | 🍴 **250+ Problems** | CodeChef – Silver & Bronze Badges |
-| 🎓 **100 / 100** | Computer Science – Class 12 |
 
 </div>
-
----
-
-### 📜 Certifications
-
-> **NPTEL** – Cyber Security & Privacy · **AWS** – Fundamentals (Udemy) · **Simplilearn** – Figma UI/UX, DevOps · **Infosys Springboard** – Python, Flutter · **Great Learning** – Flutter, Android, Java
 
 ---
 
