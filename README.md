@@ -20,17 +20,7 @@
 
 ### 👨‍💻 Who Am I?
 
-```dart
-class AbdulFahadM extends FlutterDeveloper {
-  final String degree = "B.E. Computer Science";
-  final String college = "SREC, Coimbatore";
-  final String focus = "Scalable Mobile Apps";
-
-  @override
-  String get passion =>
-    "Building real-world apps that solve real problems";
-}
-```
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&width=600&lines=Flutter+%26+Firebase+Developer+%F0%9F%9A%80;Building+Scalable+Mobile+Apps+%F0%9F%93%B1;B.E.+Computer+Science+%40+SREC%2C+Coimbatore;Real-World+Apps+that+Solve+Real+Problems+%F0%9F%92%A1;Open+to+Internships+%26+Collaborations+%F0%9F%A4%9D" alt="Typing SVG" />
 
 <br clear="right"/>
 
