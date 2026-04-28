@@ -21,17 +21,11 @@
 **📱 Mobile & UI**<br/>
 <img src="https://skillicons.dev/icons?i=flutter,dart,figma&theme=dark" height="50" />
 
-<br/><br/>
-
 **☁️ Backend & Cloud**<br/>
 <img src="https://skillicons.dev/icons?i=firebase,mongodb,supabase&theme=dark" height="50" />
 
-<br/><br/>
-
 **💻 Languages**<br/>
 <img src="https://skillicons.dev/icons?i=java,python,c,html,css&theme=dark" height="50" />
-
-<br/><br/>
 
 **🛠️ Tools**<br/>
 <img src="https://skillicons.dev/icons?i=git,github,androidstudio,vscode&theme=dark" height="50" />
