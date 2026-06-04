@@ -1,93 +1,98 @@
-<!-- ═══════════════════════════════════════════════════════ HEADER -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020010,30:0a0f2e,60:0d2b5e,100:0a3d8f&height=300&section=header&text=ABDUL%20FAHAD%20M&fontSize=68&fontColor=e0f7ff&animation=fadeIn&fontAlignY=40&desc=Flutter%20%C2%B7%20Firebase%20%C2%B7%20Mobile%20Engineer&descSize=19&descAlignY=62&descColor=4fc3f7" width="100%" />
+<!-- HEADER ANIMATION -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:00b4d8,50:0d2137,100:0a0e1a&height=250&section=header&text=Abdul%20Fahad%20M&fontSize=75&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Mobile%20App%20Engineer%20%7C%20Flutter%20%26%20Firebase&descSize=20&descAlignY=60&descColor=90e0ef" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:caf0f8,50:90e0ef,100:0077b6&height=250&section=header&text=Abdul%20Fahad%20M&fontSize=75&fontColor=03045e&animation=twinkling&fontAlignY=35&desc=Mobile%20App%20Engineer%20%7C%20Flutter%20%26%20Firebase&descSize=20&descAlignY=60&descColor=023e8a" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4d8,50:0d2137,100:0a0e1a&height=250&section=header&text=Abdul%20Fahad%20M&fontSize=75&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Mobile%20App%20Engineer%20%7C%20Flutter%20%26%20Firebase&descSize=20&descAlignY=60&descColor=90e0ef" />
+</picture>
 
-<br/>
+<!-- DYNAMIC TYPING TEXT -->
+<a href="https://github.com/AbdulFahad31">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=24&pause=1000&color=00B4D8&center=true&vCenter=true&width=800&lines=🚀+Building+Next-Gen+Mobile+Experiences;⚡+Flutter+%2B+Firebase+Wizard;🤝+Open+to+Internships+%26+Collaborations;💻+Turning+Coffee+Into+Clean+Code" alt="Typing SVG" />
+</a>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=17&duration=2800&pause=900&color=4FC3F7&center=true&vCenter=true&width=700&lines=%E2%86%92+Flutter+%26+Firebase+Developer;%E2%86%92+Govt.+of+India+Copyright+Holder;%E2%86%92+Building+Real+Products+for+Real+People;%E2%86%92+Open+to+Internships+%26+Collaborations)](https://git.io/typing-svg)
-
-<br/>
-
-![Location](https://img.shields.io/badge/📍_Coimbatore%2C_India-0a0f2e?style=flat-square&labelColor=0a0f2e&color=0a0f2e&logoColor=4fc3f7)
-&nbsp;
-![Status](https://img.shields.io/badge/STATUS-OPEN%20FOR%20HIRE-4fc3f7?style=flat-square&labelColor=011627&color=0a3d8f&logoColor=000)
-
+<!-- QUICK STATUS BADGES -->
+<div align="center">
+  <img src="https://img.shields.io/badge/📍_Coimbatore,_India-0a0e1a?style=for-the-badge&border=00b4d8&logoColor=white" />
+  <a href="mailto:abdulfahad676@gmail.com"><img src="https://img.shields.io/badge/📧_Let's_Talk-0a0e1a?style=for-the-badge&border=00b4d8&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/🟢_Open_to_Opportunities-0a0e1a?style=for-the-badge&border=00b4d8&logoColor=white" />
 </div>
 
-<br/>
+<br><br>
 
-<!-- ═══════════════════════════════════════════════════════ STACK -->
-<div align="center">
+<!-- TECH STACK SECTION -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="80%">
+<h2> ⚡ Tech Arsenal </h2>
 
-## 〔 STACK 〕
+**Mobile & Backend**<br>
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-<br/>
+**Languages**<br>
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,mongodb,supabase&theme=dark&perline=5" />
+**Tools & Workflows**<br>
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-<br/><br/>
+<br>
 
-<img src="https://skillicons.dev/icons?i=java,python,c,html,css&theme=dark&perline=5" />
+<!-- GITHUB STATS SECTION -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="80%">
+<h2> 📊 GitHub Analytics </h2>
 
-<br/><br/>
+<table style="border: none; background-color: transparent;">
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=AbdulFahad31&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00b4d8&icon_color=90e0ef&text_color=caf0f8&ring_color=00b4d8&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulFahad31&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00b4d8&text_color=caf0f8&langs_count=6" alt="Top Languages" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdulFahad31&theme=tokyonight&hide_border=true&background=0d1117&stroke=00b4d8&ring=00b4d8&fire=ff6b6b&currStreakLabel=00b4d8&sideLabels=90e0ef&dates=caf0f8&sideNums=ffffff&currStreakNum=ffffff" alt="GitHub Streak" width="100%"/>
+    </td>
+  </tr>
+</table>
 
-<img src="https://skillicons.dev/icons?i=git,github,androidstudio,vscode,figma&theme=dark&perline=5" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=AbdulFahad31&bg_color=0d1117&color=00b4d8&line=00b4d8&point=90e0ef&area=true&area_color=0d2137&hide_border=true" alt="Activity Graph" />
 
-</div>
+<br>
 
-<br/><br/>
+<!-- CONNECT & FOOTER SECTION -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="80%">
+<h2> 🌐 Connect With Me </h2>
 
-<!-- ═══════════════════════════════════════════════════════ STATS -->
-<div align="center">
+<a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:abdulfahad676@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://leetcode.com"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /></a>
+<a href="https://skillrack.com"><img src="https://img.shields.io/badge/SkillRack-00C853?style=for-the-badge&logo=checkmarx&logoColor=white" /></a>
+<a href="https://codechef.com"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" /></a>
 
-## 〔 GITHUB STATS 〕
+<br><br>
 
-<br/>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AbdulFahad31&color=00b4d8&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+</p>
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=AbdulFahad31&show_icons=true&hide_border=true&theme=tokyonight&bg_color=020010&title_color=4fc3f7&icon_color=4fc3f7&text_color=c0d8e8&ring_color=4fc3f7&include_all_commits=true&count_private=true&custom_title=Stats" />
-&nbsp;
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulFahad31&layout=compact&hide_border=true&theme=tokyonight&bg_color=020010&title_color=4fc3f7&text_color=c0d8e8&langs_count=6&custom_title=Top%20Languages" />
-
-<br/><br/>
-
-<img height="175em" src="https://streak-stats.demolab.com?user=AbdulFahad31&theme=tokyonight&hide_border=true&background=020010&stroke=4fc3f7&ring=4fc3f7&fire=e040fb&currStreakLabel=4fc3f7&sideLabels=4fc3f7&dates=8899aa&sideNums=e0f7ff&currStreakNum=e0f7ff" />
-
-<br/><br/>
-
-<img width="94%" src="https://github-readme-activity-graph.vercel.app/graph?username=AbdulFahad31&bg_color=020010&color=4fc3f7&line=4fc3f7&point=e0f7ff&area=true&area_color=0a1628&hide_border=true&radius=6" />
-
-</div>
-
-<br/><br/>
-
-<!-- ═══════════════════════════════════════════════════════ CONNECT -->
-<div align="center">
-
-## 〔 CONNECT 〕
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AbdulFahad31)
-&nbsp;
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdulfahad676@gmail.com)
-
-<br/><br/>
-
-[![LeetCode](https://img.shields.io/badge/LeetCode_100%2B-%23FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com)
-&nbsp;
-[![SkillRack](https://img.shields.io/badge/SkillRack_350%2B-00C853?style=for-the-badge&logo=checkmarx&logoColor=white)](https://skillrack.com)
-&nbsp;
-[![CodeChef](https://img.shields.io/badge/CodeChef_250%2B-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://codechef.com)
-
-<br/><br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=AbdulFahad31&color=4fc3f7&style=for-the-badge&label=PROFILE+VIEWS)
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a3d8f,50:0a0f2e,100:020010&height=140&section=footer&animation=fadeIn" width="100%" />
+<!-- FOOTER ANIMATION -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:00b4d8,50:0d2137,100:0a0e1a&height=120&section=footer&animation=twinkling" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0077b6,50:90e0ef,100:caf0f8&height=120&section=footer&animation=twinkling" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4d8,50:0d2137,100:0a0e1a&height=120&section=footer&animation=twinkling" />
+</picture>
 
 </div>
