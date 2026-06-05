@@ -36,17 +36,23 @@
 
 <div align="center">
 
-| Project | Tech Stack | Description |
-|:---:|:---:|:---|
-| 🔌 **[AmpTrail](https://github.com/AbdulFahad31/amptrail)** | Flutter · Firebase · Firestore | Real-time EV charging slot booking app with role-based access for users, station owners & admins |
-| 🔍 **[ForensiAI](https://github.com/AbdulFahad31/forensiai)** | CrewAI · FastAPI · React · LLMs | AI-powered forensic investigation platform with multi-agent workflows for evidence analysis |
-| 🏥 **[Medovate](https://github.com/AbdulFahad31/medovate)** | Flutter · Firebase · Firestore | Cross-platform doctor appointment booking app with real-time scheduling & FCM reminders |
+<a href="https://github.com/AbdulFahad31/amptrail">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AbdulFahad31&repo=amptrail&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=a8b2d8&description_lines_count=2" />
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/AbdulFahad31/forensiai">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AbdulFahad31&repo=forensiai&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=a8b2d8&description_lines_count=2" />
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/AbdulFahad31/medovate">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AbdulFahad31&repo=medovate&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=a8b2d8&description_lines_count=2" />
+</a>
 
 </div>
 
 ---
-
-
 
 ## 📊 GitHub Stats
 
@@ -54,10 +60,6 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=AbdulFahad31&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=a8b2d8&ring_color=00d4ff" height="165" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulFahad31&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=a8b2d8&langs_count=6" height="165" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdulFahad31&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d4ff&ring=00d4ff&fire=ff6b6b&currStreakLabel=00d4ff&sideLabels=a8b2d8&dates=a8b2d8&sideNums=ffffff&currStreakNum=ffffff" height="165" />
 
 </div>
 
