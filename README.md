@@ -36,19 +36,40 @@
 
 <div align="center">
 
-<a href="https://github.com/AbdulFahad31/amptrail">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AbdulFahad31&repo=amptrail&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=a8b2d8&description_lines_count=2" />
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/AbdulFahad31/forensiai">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AbdulFahad31&repo=forensiai&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=a8b2d8&description_lines_count=2" />
-</a>
+### 🔌 AmpTrail
+[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)](https://flutter.dev)
+[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)](https://firebase.google.com)
+[![Firestore](https://img.shields.io/badge/Firestore-FF6F00?style=flat-square&logo=google-cloud&logoColor=white)](https://firebase.google.com/products/firestore)
 
-<br/><br/>
+Real-time **EV charging slot booking** app with role-based access control for users, station owners & admins.<br/>
+Firestore real-time listeners keep slot availability in sync across all concurrent users.
 
-<a href="https://github.com/AbdulFahad31/medovate">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AbdulFahad31&repo=medovate&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=a8b2d8&description_lines_count=2" />
-</a>
+[![View Repo](https://img.shields.io/badge/View%20Repo-AbdulFahad31%2Famptrail-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AbdulFahad31/amptrail)
+
+---
+
+### 🔍 ForensiAI
+[![CrewAI](https://img.shields.io/badge/CrewAI-00C896?style=flat-square&logo=openai&logoColor=white)](https://crewai.com)
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com)
+[![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)](https://react.dev)
+[![LLMs](https://img.shields.io/badge/LLMs-8A2BE2?style=flat-square&logo=openai&logoColor=white)](https://github.com/AbdulFahad31/forensiai)
+
+AI-powered **forensic investigation platform** using multi-agent CrewAI workflows for intelligent evidence analysis<br/>
+and automated report generation. LLM-based anomaly detection reduces manual review effort.
+
+[![View Repo](https://img.shields.io/badge/View%20Repo-AbdulFahad31%2Fforensiai-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AbdulFahad31/forensiai)
+
+---
+
+### 🏥 Medovate
+[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)](https://flutter.dev)
+[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)](https://firebase.google.com)
+[![FCM](https://img.shields.io/badge/FCM-FF6F00?style=flat-square&logo=google-cloud&logoColor=white)](https://firebase.google.com/products/cloud-messaging)
+
+Cross-platform **doctor appointment booking** app with real-time scheduling, availability management<br/>
+and Firebase Cloud Messaging for automated appointment reminders.
+
+[![View Repo](https://img.shields.io/badge/View%20Repo-AbdulFahad31%2Fmedovate-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AbdulFahad31/medovate)
 
 </div>
 
@@ -59,6 +80,7 @@
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=AbdulFahad31&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=a8b2d8&ring_color=00d4ff" height="165" />
+&nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulFahad31&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=a8b2d8&langs_count=6" height="165" />
 
 </div>
