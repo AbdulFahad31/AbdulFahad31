@@ -79,9 +79,11 @@ and Firebase Cloud Messaging for automated appointment reminders.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AbdulFahad31&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=a8b2d8&ring_color=00d4ff" height="165" />
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulFahad31&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=a8b2d8&langs_count=6" height="165" />
+<img src="https://streak-stats.demolab.com?user=AbdulFahad31&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d4ff&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff&sideLabels=a8b2d8&dates=a8b2d8&sideNums=ffffff&currStreakNum=ffffff" height="165" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdulFahad31&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ffffff&area=true&hide_border=true" />
 
 </div>
 
