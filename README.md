@@ -46,18 +46,7 @@
 
 ---
 
-## 💼 Experience
 
-<div align="center">
-
-| 🏢 Company | 🎯 Role | 📅 Period |
-|:---:|:---:|:---:|
-| Vision Corp Infotech | Flutter Mobile Application Intern | Dec 2025 |
-| ABT Limited | Database Intern | Jun 2025 |
-
-</div>
-
----
 
 ## 📊 GitHub Stats
 
@@ -78,9 +67,9 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdul%20Fahad-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdul%20Fahad-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdul-fahad-m/)
 [![GitHub](https://img.shields.io/badge/GitHub-AbdulFahad31-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AbdulFahad31)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/abdul_fahad/)
 [![CodeChef](https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://codechef.com)
 
 </div>
