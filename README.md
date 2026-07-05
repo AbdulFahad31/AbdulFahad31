@@ -34,7 +34,7 @@
 <img src="https://skillicons.dev/icons?i=git,github,androidstudio,vscode&theme=dark" height="50" />
 
 </div>
----
+
 
 ## 🚀 Featured Projects
 
