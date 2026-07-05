@@ -2,8 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:0f3460,100:00d4ff&height=250&section=header&text=Abdul%20Fahad%20M&fontSize=60&fontColor=00d4ff&animation=fadeIn&fontAlignY=45&stroke=00d4ff&strokeWidth=2&desc=Flutter%20Developer%20%E2%80%A2%20Firebase%20%E2%80%A2%20Mobile%20App%20Engineer&descAlignY=65&descSize=17&descColor=a8b2d8" />
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&width=440&height=40&lines=💻+Software+Developer;📱+Mobile+App+Engineer+%7C+Flutter;🤖+AI+Engineer+%7C+AI+Systems;💡+Building+Real-World+Apps+that+Solve+Real+Problems;🤝+Open+to+Internships+%26+Collaborations)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&width=600&height=45&lines=🚀+Flutter+%26+Firebase+Developer;📱+Building+Scalable+Mobile+Apps;💡+Real-World+Apps+that+Solve+Real+Problems;🤝+Open+to+Internships+%26+Collaborations)](https://git.io/typing-svg)   
 <br/>
 
 📍 Coimbatore, India &nbsp;|&nbsp; 📞 +91 75399 34156 &nbsp;|&nbsp; 📧 abdulfahad676@gmail.com
