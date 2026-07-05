@@ -75,6 +75,8 @@ AI-powered **road damage reporting** app that analyzes uploaded road images usin
 Integrates Mapbox for location tagging and Supabase for backend storage and real-time sync.
 
 [![View Repo](https://img.shields.io/badge/View%20Repo-AbdulFahad31%2FRoadCare-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AbdulFahad31/RoadCare)
+
+---
 ### 🏥 Medovate
 [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)](https://flutter.dev)
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)](https://firebase.google.com)
