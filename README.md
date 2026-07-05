@@ -76,10 +76,12 @@ and Firebase Cloud Messaging for automated appointment reminders.
 ### 🛣️ RoadCare
 [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)](https://flutter.dev)
 [![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)](https://supabase.com)
-[![Gemini](https://img.shields.io/badge/Gemini%202.5%20Flash-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)](https://ai.google.dev)
+[![Gemini 2.5 Flash](https://img.shields.io/badge/Gemini%202.5%20Flash-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)](https://ai.google.dev)
 [![Mapbox](https://img.shields.io/badge/Mapbox-000000?style=flat-square&logo=mapbox&logoColor=white)](https://www.mapbox.com)
+
 AI-powered **road damage reporting** app that analyzes uploaded road images using Google Gemini Vision to auto-classify damage type, severity, and pothole dimensions.<br/>
 Integrates Mapbox for location tagging and Supabase for backend storage and real-time sync.
+
 [![View Repo](https://img.shields.io/badge/View%20Repo-AbdulFahad31%2FRoadCare-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AbdulFahad31/RoadCare)
 
 </div>
