@@ -12,11 +12,17 @@
 ---
 
 ## ⚡ Tech Arsenal
-
 <div align="center">
 
 **📱 Mobile & UI**<br/>
 <img src="https://skillicons.dev/icons?i=flutter,dart,figma&theme=dark" height="50" />
+
+**🤖 AI & Machine Learning**<br/>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=dark" height="50" /><br/>
+![GenAI](https://img.shields.io/badge/GenAI-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLMs-412991?style=flat-square&logo=openai&logoColor=white)
+![Agentic AI](https://img.shields.io/badge/Agentic%20AI-FF6F00?style=flat-square&logo=robotframework&logoColor=white)
+![CrewAI](https://img.shields.io/badge/CrewAI-000000?style=flat-square&logo=crewai&logoColor=white)
 
 **☁️ Backend & Cloud**<br/>
 <img src="https://skillicons.dev/icons?i=firebase,mongodb,supabase&theme=dark" height="50" />
@@ -28,7 +34,6 @@
 <img src="https://skillicons.dev/icons?i=git,github,androidstudio,vscode&theme=dark" height="50" />
 
 </div>
-
 ---
 
 ## 🚀 Featured Projects
