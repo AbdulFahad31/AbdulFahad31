@@ -87,6 +87,7 @@ and Firebase Cloud Messaging for automated appointment reminders.
 
 [![View Repo](https://img.shields.io/badge/View%20Repo-AbdulFahad31%2Fmedovate-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AbdulFahad31/medovate)
 
+---
 
 </div>
 
