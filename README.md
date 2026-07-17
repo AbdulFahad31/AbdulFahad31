@@ -109,6 +109,17 @@ and Firebase Cloud Messaging for automated appointment reminders.
 
 ---
 
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/AbdulFahad31/AbdulFahad31/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+
+</div>
+
+
 ## 🌐 Find Me
 
 <div align="center">
