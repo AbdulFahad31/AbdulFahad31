@@ -102,7 +102,9 @@ and Firebase Cloud Messaging for automated appointment reminders.
 <img src="https://streak-stats.demolab.com?user=AbdulFahad31&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d4ff&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff&sideLabels=a8b2d8&dates=a8b2d8&sideNums=ffffff&currStreakNum=ffffff" height="165" />
 
 <br/>
+<img src="https://github-profile-trophy.vercel.app/?username=AbdulFahad31&theme=darkhub&no-frame=true&row=1&column=6" />
 
+<br/>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdulFahad31&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ffffff&area=true&hide_border=true" />
 
 </div>
