@@ -1,127 +1,176 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:0f3460,100:00d4ff&height=250&section=header&text=Abdul%20Fahad%20M&fontSize=60&fontColor=00d4ff&animation=fadeIn&fontAlignY=45&stroke=00d4ff&strokeWidth=2&desc=Flutter%20Developer%20%E2%80%A2%20Firebase%20%E2%80%A2%20Mobile%20App%20Engineer%20%E2%80%A2%20AI%20Engineer&descAlignY=65&descSize=17&descColor=a8b2d8" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:16213e,100:00d4ff&height=220&section=header&text=Abdul%20Fahad%20M&fontSize=52&fontColor=00d4ff&animation=fadeIn&fontAlignY=36&desc=Turning%20ideas%20into%20apps%20people%20actually%20use&descAlignY=56&descSize=16&descColor=a8b2d8" width="100%"/>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=900&color=00D4FF&center=true&vCenter=true&width=680&height=40&lines=I+build+mobile+apps+that+solve+real+problems;Flutter+%2B+Firebase+%2B+AI+%3D+products+that+ship;From+idea+to+App+Store%2C+end+to+end" alt="Typing SVG" />
+</a>
+
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&width=600&height=45&lines=🚀+Flutter+%26+Firebase+Developer;📱+Building+Scalable+Mobile+Apps;💡+Real-World+Apps+that+Solve+Real+Problems;🤝+Open+to+Internships+%26+Collaborations)](https://git.io/typing-svg)   
-<br/>
-
-📍 Coimbatore, India &nbsp;|&nbsp; 📞 +91 75399 34156 &nbsp;|&nbsp; 📧 abdulfahad676@gmail.com
+📧 <a href="mailto:abdulfahad676@gmail.com">abdulfahad676@gmail.com</a> &nbsp;•&nbsp; 📍 Coimbatore, India &nbsp;•&nbsp; 📞 +91 75399 34156
 
 </div>
 
----
+<br/>
 
-## ⚡ Tech Arsenal
-<div align="center">
+## About
 
-**📱 Mobile & UI**<br/>
-<img src="https://skillicons.dev/icons?i=flutter,dart,figma&theme=dark" height="50" />
+I'm a Flutter developer who ships full products, not just screens — real-time Firebase backends, AI-powered features, and the mobile UI that ties it together. Currently exploring agentic AI systems and looking for internships or collaborations where I can build things that matter.
 
-**🤖 AI & Machine Learning**<br/>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=dark" height="50" /><br/>
-![GenAI](https://img.shields.io/badge/GenAI-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
-![LLMs](https://img.shields.io/badge/LLMs-412991?style=flat-square&logo=openai&logoColor=white)
-![Agentic AI](https://img.shields.io/badge/Agentic%20AI-FF6F00?style=flat-square&logo=robotframework&logoColor=white)
-![CrewAI](https://img.shields.io/badge/CrewAI-000000?style=flat-square&logo=crewai&logoColor=white)
+<br/>
 
-**☁️ Backend & Cloud**<br/>
-<img src="https://skillicons.dev/icons?i=firebase,mongodb,supabase&theme=dark" height="50" />
+## 🧰 Tech Stack
 
-**💻 Languages**<br/>
-<img src="https://skillicons.dev/icons?i=java,python,c,html,css&theme=dark" height="50" />
+<table align="center">
+<tr>
+<td valign="top" width="33%">
 
-**🛠️ Tools**<br/>
-<img src="https://skillicons.dev/icons?i=git,github,androidstudio,vscode&theme=dark" height="50" />
----
-</div>
+**📱 Mobile & Design**
 
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-## 🚀 Featured Projects
+</td>
+<td valign="top" width="33%">
 
-<div align="center">
+**🤖 AI / ML**
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![CrewAI](https://img.shields.io/badge/CrewAI-000000?style=for-the-badge&logo=openai&logoColor=white)
+
+</td>
+<td valign="top" width="33%">
+
+**☁️ Backend & Cloud**
+
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td valign="top" width="33%">
+
+**💻 Languages**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+
+</td>
+<td valign="top" width="33%">
+
+**🌐 Web**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+</td>
+<td valign="top" width="33%">
+
+**🛠️ Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 🚀 Featured Work
+
+<table align="center" width="100%">
+<tr>
+<td width="50%" valign="top">
 
 ### 🔌 AmpTrail
-[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)](https://flutter.dev)
-[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)](https://firebase.google.com)
-[![Firestore](https://img.shields.io/badge/Firestore-FF6F00?style=flat-square&logo=google-cloud&logoColor=white)](https://firebase.google.com/products/firestore)
+Real-time EV charging slot booking with role-based access for users, station owners, and admins — Firestore listeners keep availability in sync across every concurrent session.
 
-Real-time **EV charging slot booking** app with role-based access control for users, station owners & admins.<br/>
-Firestore real-time listeners keep slot availability in sync across all concurrent users.
+`Flutter` `Firebase` `Firestore`
 
-[![View Repo](https://img.shields.io/badge/View%20Repo-AbdulFahad31%2Famptrail-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AbdulFahad31/amptrail)
+[**View repo →**](https://github.com/AbdulFahad31/amptrail)
 
----
+</td>
+<td width="50%" valign="top">
 
 ### 🔍 ForensiAI
-[![CrewAI](https://img.shields.io/badge/CrewAI-00C896?style=flat-square&logo=openai&logoColor=white)](https://crewai.com)
-[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com)
-[![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)](https://react.dev)
-[![LLMs](https://img.shields.io/badge/LLMs-8A2BE2?style=flat-square&logo=openai&logoColor=white)](https://github.com/AbdulFahad31/forensiai)
+Multi-agent forensic investigation platform that automates evidence analysis and report generation, using LLM-based anomaly detection to cut manual review time.
 
-AI-powered **forensic investigation platform** using multi-agent CrewAI workflows for intelligent evidence analysis<br/>
-and automated report generation. LLM-based anomaly detection reduces manual review effort.
+`CrewAI` `FastAPI` `React` `LLMs`
 
-[![View Repo](https://img.shields.io/badge/View%20Repo-AbdulFahad31%2Fforensiai-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AbdulFahad31/forensiai)
+[**View repo →**](https://github.com/AbdulFahad31/forensiai)
 
----
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### 🛣️ RoadCare
-[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)](https://flutter.dev)
-[![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)](https://supabase.com)
-[![Gemini 2.5 Flash](https://img.shields.io/badge/Gemini%202.5%20Flash-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)](https://ai.google.dev)
-[![Mapbox](https://img.shields.io/badge/Mapbox-000000?style=flat-square&logo=mapbox&logoColor=white)](https://www.mapbox.com)
+AI road-damage reporting app — Gemini Vision auto-classifies damage type, severity, and pothole dimensions from a photo, with Mapbox tagging and Supabase sync.
 
-AI-powered **road damage reporting** app that analyzes uploaded road images using Google Gemini Vision to auto-classify damage type, severity, and pothole dimensions.<br/>
-Integrates Mapbox for location tagging and Supabase for backend storage and real-time sync.
+`Flutter` `Supabase` `Gemini 2.5 Flash` `Mapbox`
 
-[![View Repo](https://img.shields.io/badge/View%20Repo-AbdulFahad31%2FRoadCare-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AbdulFahad31/RoadCare)
+[**View repo →**](https://github.com/AbdulFahad31/RoadCare)
 
----
+</td>
+<td width="50%" valign="top">
+
 ### 🏥 Medovate
-[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)](https://flutter.dev)
-[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)](https://firebase.google.com)
-[![FCM](https://img.shields.io/badge/FCM-FF6F00?style=flat-square&logo=google-cloud&logoColor=white)](https://firebase.google.com/products/cloud-messaging)
+Cross-platform doctor appointment booking with real-time scheduling and automated reminders sent through Firebase Cloud Messaging.
 
-Cross-platform **doctor appointment booking** app with real-time scheduling, availability management<br/>
-and Firebase Cloud Messaging for automated appointment reminders.
+`Flutter` `Firebase` `FCM`
 
-[![View Repo](https://img.shields.io/badge/View%20Repo-AbdulFahad31%2Fmedovate-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AbdulFahad31/medovate)
+[**View repo →**](https://github.com/AbdulFahad31/medovate)
 
----
+</td>
+</tr>
+</table>
 
-</div>
+<br/>
 
----
-
-
-
-## 🐍 Contribution Snake
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/AbdulFahad31/AbdulFahad31/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=AbdulFahad31&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=a8b2d8" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulFahad31&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=a8b2d8" />
+
+<img src="https://streak-stats.demolab.com?user=AbdulFahad31&theme=dark&hide_border=true&background=0d1117&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff" />
+
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/AbdulFahad31/AbdulFahad31/output/github-contribution-grid-snake-dark.svg" alt="contribution snake" width="100%"/>
 
 </div>
 
+<br/>
 
-## 🌐 Find Me
+## 🤝 Let's Connect
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdul%20Fahad-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdul-fahad-m/)
-[![GitHub](https://img.shields.io/badge/GitHub-AbdulFahad31-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AbdulFahad31)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/abdul_fahad/)
-[![CodeChef](https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://codechef.com)
+[![Email](https://img.shields.io/badge/Email-00d4ff?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdulfahad676@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-00d4ff?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdul-fahad-m/)
+[![GitHub](https://img.shields.io/badge/GitHub-00d4ff?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AbdulFahad31)
+[![LeetCode](https://img.shields.io/badge/LeetCode-00d4ff?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/abdul_fahad/)
+
+*Open to internships, freelance builds, and collaborations.*
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:16213e,100:00d4ff&height=110&section=footer"/>
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0f3460,100:00d4ff&height=130&section=footer&animation=fadeIn" />
-
-*"Code is not just logic — it's impact."*
 
 ![Profile Views](https://komarev.com/ghpvc/?username=AbdulFahad31&color=00d4ff&style=flat-square&label=Profile+Views)
 
