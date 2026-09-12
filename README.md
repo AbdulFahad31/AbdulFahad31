@@ -1,18 +1,22 @@
-<h1 align="center">Abdul Fahad M</h1>
-<h3 align="center">Flutter Developer · Firebase · Mobile App Engineer · AI Engineer</h3>
+<div align="center">
+  <img src="assets/profile.png" width="200" />
 
-<p align="center">
-  <a href="mailto:abdulfahad676@gmail.com">abdulfahad676@gmail.com</a> &nbsp;·&nbsp;
-  Coimbatore, India &nbsp;·&nbsp;
-  +91 75399 34156
-</p>
+  <h1>Abdul Fahad M</h1>
+  <h3>Flutter Developer · Firebase · Mobile App Engineer · AI Engineer</h3>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/abdul-fahad-m/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/AbdulFahad31"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
-  <a href="https://leetcode.com/u/abdul_fahad/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" /></a>
-  <a href="https://codechef.com"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white" /></a>
-</p>
+  <p>
+    <a href="mailto:abdulfahad676@gmail.com">abdulfahad676@gmail.com</a> &nbsp;·&nbsp;
+    Coimbatore, India &nbsp;·&nbsp;
+    +91 75399 34156
+  </p>
+
+  <p>
+    <a href="https://www.linkedin.com/in/abdul-fahad-m/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+    <a href="https://github.com/AbdulFahad31"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
+    <a href="https://leetcode.com/u/abdul_fahad/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" /></a>
+    <a href="https://codechef.com"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white" /></a>
+  </p>
+</div>
 
 <br/>
 
