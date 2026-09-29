@@ -1,83 +1,128 @@
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:0f3460,100:00d4ff&height=280&section=header&text=Abdul%20Fahad%20M&fontSize=64&fontColor=00d4ff&animation=twinkling&fontAlignY=42&stroke=00d4ff&strokeWidth=2&desc=Flutter%20Developer%20%E2%80%A2%20Firebase%20%E2%80%A2%20Mobile%20App%20Engineer%20%E2%80%A2%20AI%20Engineer&descAlignY=64&descSize=17&descColor=a8b2d8" width="100%"/> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=700&color=00D4FF&center=true&vCenter=true&width=700&height=50&lines=%3E+flutter+create+--org+dream.big+%F0%9F%9A%80;%3E+Building+scalable+mobile+apps+%F0%9F%93%B1;%3E+Teaching+LLM+agents+to+think+%F0%9F%A4%96;%3E+Real-world+apps+that+solve+real+problems+%F0%9F%92%A1;%3E+Open+to+internships+%26+collaborations+%F0%9F%A4%9D" alt="Typing SVG" /> </a> <br/>
-
-Show Image Show Image Show Image Show Image
-
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:0f3460,100:00d4ff&height=250&section=header&text=Abdul%20Fahad%20M&fontSize=60&fontColor=00d4ff&animation=fadeIn&fontAlignY=45&stroke=00d4ff&strokeWidth=2&desc=Flutter%20Developer%20%E2%80%A2%20Firebase%20%E2%80%A2%20Mobile%20App%20Engineer%20%E2%80%A2%20AI%20Engineer&descAlignY=65&descSize=17&descColor=a8b2d8" />
 <br/>
 
-📍 Coimbatore, India  •  📞 +91 75399 34156  •  📧 abdulfahad676@gmail.com
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&width=600&height=45&lines=🚀+Flutter+%26+Firebase+Developer;📱+Building+Scalable+Mobile+Apps;💡+Real-World+Apps+that+Solve+Real+Problems;🤝+Open+to+Internships+%26+Collaborations)](https://git.io/typing-svg)   
+<br/>
 
-</div> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:0f3460,100:00d4ff&height=2" width="100%"/>
-👨‍💻 whoami
-dart
-class AbdulFahad extends Developer {
-  final String location   = "Coimbatore, India 🇮🇳";
-  final String role       = "Flutter Developer & AI Engineer";
-  final List<String> loves = ["Flutter", "Firebase", "Agentic AI", "Clean UI"];
+📍 Coimbatore, India &nbsp;|&nbsp; 📞 +91 75399 34156 &nbsp;|&nbsp; 📧 abdulfahad676@gmail.com
 
-  String currentlyBuilding = "Apps that people actually use 📱";
-  String currentlyLearning = "Multi-agent systems & LLM orchestration 🤖";
-  String lookingFor        = "Internships & collaborations 🤝";
+</div>
 
-  @override
-  void code() => impact(logic + creativity);   // Code is not just logic
-}
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:0f3460,100:00d4ff&height=2" width="100%"/>
-⚡ Tech Arsenal
-<div align="center"> <table> <tr> <td align="center" width="50%">
+---
 
-📱 Mobile & UI<br/><br/> <img src="https://skillicons.dev/icons?i=flutter,dart,figma,androidstudio&theme=dark" />
-
-</td> <td align="center" width="50%">
-
-☁️ Backend & Cloud<br/><br/> <img src="https://skillicons.dev/icons?i=firebase,mongodb,supabase,fastapi&theme=dark" />
-
-</td> </tr> <tr> <td align="center">
-
-🤖 AI & Machine Learning<br/><br/> <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=dark" /><br/><br/> Show Image Show Image Show Image Show Image
-
-</td> <td align="center">
-
-💻 Languages & 🛠️ Tools<br/><br/> <img src="https://skillicons.dev/icons?i=java,python,c,html,css,react&theme=dark" /><br/> <img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" />
-
-</td> </tr> </table> </div> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:0f3460,100:00d4ff&height=2" width="100%"/>
-🚀 Featured Projects
-<div align="center"> <table> <tr> <td align="center" width="50%"> <a href="https://github.com/AbdulFahad31/amptrail"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=AbdulFahad31&repo=amptrail&theme=tokyonight&bg_color=0d1117&border_color=00d4ff&title_color=00d4ff&icon_color=00d4ff&text_color=a8b2d8&hide_border=false" /> </a> </td> <td align="center" width="50%"> <a href="https://github.com/AbdulFahad31/forensiai"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=AbdulFahad31&repo=forensiai&theme=tokyonight&bg_color=0d1117&border_color=00d4ff&title_color=00d4ff&icon_color=00d4ff&text_color=a8b2d8&hide_border=false" /> </a> </td> </tr> <tr> <td align="center"> <a href="https://github.com/AbdulFahad31/RoadCare"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=AbdulFahad31&repo=RoadCare&theme=tokyonight&bg_color=0d1117&border_color=00d4ff&title_color=00d4ff&icon_color=00d4ff&text_color=a8b2d8&hide_border=false" /> </a> </td> <td align="center"> <a href="https://github.com/AbdulFahad31/medovate"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=AbdulFahad31&repo=medovate&theme=tokyonight&bg_color=0d1117&border_color=00d4ff&title_color=00d4ff&icon_color=00d4ff&text_color=a8b2d8&hide_border=false" /> </a> </td> </tr> </table> </div> <details open> <summary><b>🔌 AmpTrail</b> — EV charging slot booking</summary> <br/>
-
-Show Image Show Image Show Image
-
-Real-time EV charging slot booking app with role-based access control for users, station owners & admins. Firestore real-time listeners keep slot availability in sync across all concurrent users.
-
-</details> <details open> <summary><b>🔍 ForensiAI</b> — multi-agent forensic investigation</summary> <br/>
-
-Show Image Show Image Show Image Show Image
-
-AI-powered forensic investigation platform using multi-agent CrewAI workflows for intelligent evidence analysis and automated report generation. LLM-based anomaly detection reduces manual review effort.
-
-</details> <details open> <summary><b>🛣️ RoadCare</b> — AI road damage reporting</summary> <br/>
-
-Show Image Show Image Show Image Show Image
-
-Analyzes uploaded road images with Google Gemini Vision to auto-classify damage type, severity, and pothole dimensions. Mapbox handles location tagging; Supabase powers storage and real-time sync.
-
-</details> <details open> <summary><b>🏥 Medovate</b> — doctor appointment booking</summary> <br/>
-
-Show Image Show Image Show Image
-
-Cross-platform doctor appointment booking app with real-time scheduling, availability management, and Firebase Cloud Messaging for automated appointment reminders.
-
-</details> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:0f3460,100:00d4ff&height=2" width="100%"/>
-🧠 How I Build
-feedback💡 Real Problem🎨 Design in Figma📱 Build with Flutter☁️ Firebase / Supabase🤖 Add AI Layer🚀 Ship & Iterate
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:0f3460,100:00d4ff&height=2" width="100%"/>
-📊 GitHub Stats
-<div align="center"> <img height="180" src="https://github-readme-stats.vercel.app/api?username=AbdulFahad31&show_icons=true&theme=tokyonight&bg_color=0d1117&border_color=00d4ff&title_color=00d4ff&icon_color=00d4ff&text_color=a8b2d8&hide_border=false&rank_icon=github" /> <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulFahad31&layout=compact&theme=tokyonight&bg_color=0d1117&border_color=00d4ff&title_color=00d4ff&text_color=a8b2d8&hide_border=false" /> <img src="https://streak-stats.demolab.com/?user=AbdulFahad31&theme=tokyonight&background=0d1117&border=00d4ff&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff&sideLabels=a8b2d8&dates=a8b2d8&currStreakNum=ffffff&sideNums=ffffff&hide_border=false" /> <img src="https://github-profile-trophy.vercel.app/?username=AbdulFahad31&theme=onedark&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" /> </div>
-📈 Activity Graph
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdulFahad31&bg_color=0d1117&color=00d4ff&line=00d4ff&point_color=ffffff&area=true&area_color=0f3460&hide_border=true&custom_title=Abdul%20Fahad%27s%20Contribution%20Graph" width="100%"/>
-🐍 Contribution Snake
-<div align="center"> <img src="https://raw.githubusercontent.com/AbdulFahad31/AbdulFahad31/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" /> </div> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:0f3460,100:00d4ff&height=2" width="100%"/>
-🌐 Let's Connect
+## ⚡ Tech Arsenal
 <div align="center">
 
-LinkedIn GitHub LeetCode CodeChef Gmail
+**📱 Mobile & UI**<br/>
+<img src="https://skillicons.dev/icons?i=flutter,dart,figma&theme=dark" height="50" />
 
-<br/> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&italic=true&size=17&duration=4000&pause=1500&color=A8B2D8&center=true&vCenter=true&width=520&height=35&lines=%22Code+is+not+just+logic+%E2%80%94+it%27s+impact.%22;Let%27s+build+something+great+together+%F0%9F%9A%80" alt="quote" /> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0f3460,100:00d4ff&height=140&section=footer&animation=twinkling" width="100%"/> </div>
+**🤖 AI & Machine Learning**<br/>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=dark" height="50" /><br/>
+![GenAI](https://img.shields.io/badge/GenAI-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLMs-412991?style=flat-square&logo=openai&logoColor=white)
+![Agentic AI](https://img.shields.io/badge/Agentic%20AI-FF6F00?style=flat-square&logo=robotframework&logoColor=white)
+![CrewAI](https://img.shields.io/badge/CrewAI-000000?style=flat-square&logo=crewai&logoColor=white)
+
+**☁️ Backend & Cloud**<br/>
+<img src="https://skillicons.dev/icons?i=firebase,mongodb,supabase&theme=dark" height="50" />
+
+**💻 Languages**<br/>
+<img src="https://skillicons.dev/icons?i=java,python,c,html,css&theme=dark" height="50" />
+
+**🛠️ Tools**<br/>
+<img src="https://skillicons.dev/icons?i=git,github,androidstudio,vscode&theme=dark" height="50" />
+---
+</div>
+
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+### 🔌 AmpTrail
+[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)](https://flutter.dev)
+[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)](https://firebase.google.com)
+[![Firestore](https://img.shields.io/badge/Firestore-FF6F00?style=flat-square&logo=google-cloud&logoColor=white)](https://firebase.google.com/products/firestore)
+
+Real-time **EV charging slot booking** app with role-based access control for users, station owners & admins.<br/>
+Firestore real-time listeners keep slot availability in sync across all concurrent users.
+
+[![View Repo](https://img.shields.io/badge/View%20Repo-AbdulFahad31%2Famptrail-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AbdulFahad31/amptrail)
+
+---
+
+### 🔍 ForensiAI
+[![CrewAI](https://img.shields.io/badge/CrewAI-00C896?style=flat-square&logo=openai&logoColor=white)](https://crewai.com)
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com)
+[![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)](https://react.dev)
+[![LLMs](https://img.shields.io/badge/LLMs-8A2BE2?style=flat-square&logo=openai&logoColor=white)](https://github.com/AbdulFahad31/forensiai)
+
+AI-powered **forensic investigation platform** using multi-agent CrewAI workflows for intelligent evidence analysis<br/>
+and automated report generation. LLM-based anomaly detection reduces manual review effort.
+
+[![View Repo](https://img.shields.io/badge/View%20Repo-AbdulFahad31%2Fforensiai-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AbdulFahad31/forensiai)
+
+---
+
+### 🛣️ RoadCare
+[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)](https://flutter.dev)
+[![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)](https://supabase.com)
+[![Gemini 2.5 Flash](https://img.shields.io/badge/Gemini%202.5%20Flash-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)](https://ai.google.dev)
+[![Mapbox](https://img.shields.io/badge/Mapbox-000000?style=flat-square&logo=mapbox&logoColor=white)](https://www.mapbox.com)
+
+AI-powered **road damage reporting** app that analyzes uploaded road images using Google Gemini Vision to auto-classify damage type, severity, and pothole dimensions.<br/>
+Integrates Mapbox for location tagging and Supabase for backend storage and real-time sync.
+
+[![View Repo](https://img.shields.io/badge/View%20Repo-AbdulFahad31%2FRoadCare-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AbdulFahad31/RoadCare)
+
+---
+### 🏥 Medovate
+[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)](https://flutter.dev)
+[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)](https://firebase.google.com)
+[![FCM](https://img.shields.io/badge/FCM-FF6F00?style=flat-square&logo=google-cloud&logoColor=white)](https://firebase.google.com/products/cloud-messaging)
+
+Cross-platform **doctor appointment booking** app with real-time scheduling, availability management<br/>
+and Firebase Cloud Messaging for automated appointment reminders.
+
+[![View Repo](https://img.shields.io/badge/View%20Repo-AbdulFahad31%2Fmedovate-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AbdulFahad31/medovate)
+
+---
+
+</div>
+
+---
+
+
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/AbdulFahad31/AbdulFahad31/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+
+</div>
+
+
+## 🌐 Find Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdul%20Fahad-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdul-fahad-m/)
+[![GitHub](https://img.shields.io/badge/GitHub-AbdulFahad31-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AbdulFahad31)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/abdul_fahad/)
+[![CodeChef](https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://codechef.com)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0f3460,100:00d4ff&height=130&section=footer&animation=fadeIn" />
+
+*"Code is not just logic — it's impact."*
+
+![Profile Views](https://komarev.com/ghpvc/?username=AbdulFahad31&color=00d4ff&style=flat-square&label=Profile+Views)
+
+</div>
