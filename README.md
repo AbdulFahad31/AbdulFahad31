@@ -206,7 +206,7 @@ class AbdulFahadM extends MobileAIEngineer {
   <tr>
     <td width="44%" align="center" valign="middle">
       <a href="https://github.com/AbdulFahad31/forensiai">
-        <img src="assets/forensiai_preview.png" alt="ForensiAI Command Center Dashboard" width="100%" />
+        <img src="https://files.catbox.moe/909vsk.png" alt="ForensiAI Command Center Dashboard" width="100%" />
       </a>
     </td>
     <td width="56%" valign="top">
@@ -237,7 +237,7 @@ class AbdulFahadM extends MobileAIEngineer {
   <tr>
     <td width="44%" align="center" valign="middle">
       <a href="https://github.com/AbdulFahad31/RoadCare">
-        <img src="assets/roadcare_preview.jpg" alt="RoadCare AI Road Damage & Pothole Reporting Mockup" width="100%" />
+        <img src="https://files.catbox.moe/908q69.jpg" alt="RoadCare AI Road Damage & Pothole Reporting Mockup" width="100%" />
       </a>
     </td>
     <td width="56%" valign="top">
