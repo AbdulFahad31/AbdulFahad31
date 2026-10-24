@@ -174,14 +174,14 @@ class AbdulFahadM extends MobileAIEngineer {
 <!-- Project 1: AmpTrail -->
 <table width="100%">
   <tr>
-    <td width="42%" align="center" valign="middle">
+    <td width="44%" align="center" valign="middle">
       <a href="https://github.com/AbdulFahad31/amptrail">
         <img src="https://raw.githubusercontent.com/AbdulFahad31/AmpTrail/main/assets/docs/hero_banner.jpg" alt="AmpTrail EV Slot Booking App Interface" width="100%" />
       </a>
     </td>
-    <td width="58%" valign="top">
+    <td width="56%" valign="top">
       <h3>⚡ AmpTrail &nbsp;·&nbsp; Real-Time EV Slot Booking</h3>
-      <p><b>Real-time EV charging slot booking & availability synchronization</b></p>
+      <p><b>Real-time EV charging slot booking & concurrency sync platform</b></p>
       <p>
         Engineered an end-to-end EV charging ecosystem featuring role-based access for EV drivers, station operators, and administrators. Integrated Firestore real-time listeners to maintain instant state synchronization across concurrent booking requests, effectively eliminating race conditions and slot collisions.
       </p>
@@ -204,12 +204,12 @@ class AbdulFahadM extends MobileAIEngineer {
 <!-- Project 2: ForensiAI -->
 <table width="100%">
   <tr>
-    <td width="42%" align="center" valign="middle">
+    <td width="44%" align="center" valign="middle">
       <a href="https://github.com/AbdulFahad31/forensiai">
-        <img src="https://raw.githubusercontent.com/dfir-iris/iris-web/master/img/demo_timeline.png" alt="ForensiAI Digital Forensic Evidence Investigation Dashboard" width="100%" />
+        <img src="assets/forensiai_preview.png" alt="ForensiAI Command Center Dashboard" width="100%" />
       </a>
     </td>
-    <td width="58%" valign="top">
+    <td width="56%" valign="top">
       <h3>🔍 ForensiAI &nbsp;·&nbsp; Multi-Agent Forensic Investigation</h3>
       <p><b>AI-powered multi-agent forensic investigation & automated anomaly detection</b></p>
       <p>
@@ -235,12 +235,12 @@ class AbdulFahadM extends MobileAIEngineer {
 <!-- Project 3: RoadCare -->
 <table width="100%">
   <tr>
-    <td width="42%" align="center" valign="middle">
+    <td width="44%" align="center" valign="middle">
       <a href="https://github.com/AbdulFahad31/RoadCare">
-        <img src="https://raw.githubusercontent.com/Hrishi2499/Pothole-Dimension-Estimation/master/detections/res_1.jpg" alt="RoadCare AI Road Pothole Damage Vision Detection" width="100%" />
+        <img src="assets/roadcare_preview.jpg" alt="RoadCare AI Road Damage & Pothole Reporting Mockup" width="100%" />
       </a>
     </td>
-    <td width="58%" valign="top">
+    <td width="56%" valign="top">
       <h3>🛣️ RoadCare &nbsp;·&nbsp; AI Road Damage & Pothole Detection</h3>
       <p><b>Multimodal road damage classification & geospatial infrastructure mapping</b></p>
       <p>
